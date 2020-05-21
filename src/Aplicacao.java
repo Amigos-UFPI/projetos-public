@@ -2,7 +2,7 @@
 public class Aplicacao {
 
 	public Aplicacao() {
-		// TODO Auto-generated constructor stub
+		// Baixado!
 	}
 
 }
